@@ -131,7 +131,7 @@ function extract_URL(htmlDatas) {
     // 黑名单后缀列表
     const blacklist = [
         ".html", ".webm", ".doc", ".docx", ".zip", ".rar", ".pdf", ".png", 
-        ".jpeg", ".jpg", ".css", ".js", ".gif", ".svg", ".woff", ".mp4", 
+        ".jpeg", ".jpg", ".gif", ".svg", ".woff", ".mp4", 
         ".mp3", ".woff2", ".woff", ".ico", ".ttf", ".otf", ".min.map", 
         ".css.map", ".js.map"
     ];
